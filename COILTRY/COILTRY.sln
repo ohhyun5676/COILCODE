@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "COILTRY", "COILTRY\COILTRY.pyproj", "{35D0A28D-66B8-40DB-9AA4-6952646B7033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D0A28D-66B8-40DB-9AA4-6952646B7033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D0A28D-66B8-40DB-9AA4-6952646B7033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FD84BD-D693-4B8D-B0DC-88128FE89FDB}
+	EndGlobalSection
+EndGlobal
